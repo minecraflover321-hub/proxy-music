@@ -1,7 +1,7 @@
-Pyrogram==1.4.16
+pyrogram==2.0.106
 tgcrypto
-py-tgcalls==0.8.0
-ntgcalls==1.1.0
+py-tgcalls==2.1.2
+ntgcalls
 yt-dlp
 youtube-search-python
 spotipy
