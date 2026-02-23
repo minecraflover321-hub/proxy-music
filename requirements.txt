@@ -4,6 +4,7 @@ py-tgcalls
 ntgcalls
 yt-dlp
 youtube-search-python
+spotipy
 pillow
 python-dotenv
 aiohttp
