@@ -1,10 +1,12 @@
-yt-dlp
-pillow
-aiohttp
-aiofiles
+pyrogram
 tgcrypto
 py-tgcalls
-python-dotenv
+ntgcalls
+yt-dlp
 youtube-search-python
+pillow
+python-dotenv
+aiohttp
+aiofiles
 httpx
 https://github.com/PyrogramMod/PyrogramMod/archive/refs/heads/main.zip
